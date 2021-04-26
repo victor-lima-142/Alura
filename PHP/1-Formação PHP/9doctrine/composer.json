@@ -1,0 +1,11 @@
+{
+    "require": {
+        "doctrine/orm": "^2.7",
+        "doctrine/migrations": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alura\\Doctrine\\": "src/"
+        }
+    }
+}
